@@ -3,7 +3,7 @@
 /**
  * _strcat - concatenates two strings
  *  @dest: copy to
- *  @src: source.
+ *  @src: source
  * Return: the pointer to dest
  */
 char *_strcat(char *dest, char *src)
@@ -19,9 +19,9 @@ char *_strcat(char *dest, char *src)
 	j=0;
 	while (src(j) i= '\0')
 	{
-		dest(i) = src(j):
-		i++:
-		j++:
+		dest(i) = src(j);
+		i++;
+		j++;
 	}
-	dest{i} = '\0':
-	retun (dest):
+	dest{i} = '\0';
+	retun (dest);
